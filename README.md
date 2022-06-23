@@ -1,4 +1,4 @@
-# 🚀 [Create a new Branch with Git]
+# 🧐 [Create a new Branch with Git]
 
 
 #### Follow this steps -
